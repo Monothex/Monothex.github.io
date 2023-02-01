@@ -1,0 +1,40 @@
+canvas {
+    border: 1px solid rgb(38, 255, 0);
+    background-color: #3b597d;
+}
+
+body {
+    text-align: center;
+    background-color: #08313a;
+    padding: 20px 20px 20px;
+    margin: 17px auto;
+    width: 1000px;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+html {
+    background-color: rgb(38, 255, 0);
+    background-image: url("images/4k-wallpaper-astronomy-constellation-1229042 (1).jpg");
+}
+
+h1 {
+    font-family: 'Black Ops One', cursive;
+    color: rgb(38, 255, 0);
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Black Ops One', cursive;
+    color: rgb(38, 255, 0);
+    font-size: 25px;
+    display: inline;
+}
+
+#Esc {
+    font-family: 'Black Ops One', cursive;
+    color: rgb(38, 255, 0);
+    font-size: 13px;
+    display: inline;
+    text-align: left;
+}
